@@ -1,0 +1,13 @@
+{
+    "doctor": "Dr. Antonio Ramirez",
+    "user": "testuser@gmail.com",
+    "date": "2025-05-16",
+    "time": [
+        "8:00 AM",
+        "9:00 AM",
+        "12:00 PM",
+        "1:00 PM"
+    ],
+    "fee": "500",
+    "status": "Cancelled"
+}
